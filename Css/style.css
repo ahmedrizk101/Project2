@@ -101,7 +101,7 @@ body {
 }
 
 .landing {
-  background-image: url(/Web/project_2/Images/slices-fresh-green-lime-white.jpg);
+  background-image: url(Images/slices-fresh-green-lime-white.jpg);
   background-size: cover;
   height: calc(100vh - 64px);
   position: relative;
